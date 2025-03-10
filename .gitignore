@@ -26,3 +26,7 @@ dist-ssr
 # Ignorar archivos de entorno
 .env
 
+# Ignorar archivos de Vercel
+.vercel
+
+
